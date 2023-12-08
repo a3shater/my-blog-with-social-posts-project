@@ -1,0 +1,28 @@
+:root {
+  --c1: #ddf2fd;
+  --c2: #9bbec8;
+  --c3: #427d9d;
+  --c4: #164863;
+  --linear-gd: linear-gradient(
+    to left,
+    var(--c1),
+    var(--c2),
+    var(--c3),
+    var(--c4)
+  );
+}
+
+@font-face {
+  font-family: "DroidKufi-Regular";
+  src: url("../fonts/DroidKufi-Regular.ttf");
+}
+@font-face {
+  font-family: "DroidKufi-Bold";
+  src: url("../fonts/DroidNaskh-Bold.ttf");
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}

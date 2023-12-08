@@ -1,0 +1,9 @@
+/.htaccess
+/vendor/
+/composer.lock
+/assets/css/all.min.css
+/assets/css/bootstrap.min.css
+/assets/images/
+/assets/js/bootstrap.bundle.min.js
+/assets/webfonts/
+
