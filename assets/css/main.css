@@ -1,7 +1,8 @@
 /* header */
 #hero {
   height: calc(100vh - 112px);
-  background-image: url("../images/pexels-seppe-machielsen-14011035.jpg");
+  background-image: url("../images/pexels-seppe-machielsen-14011035.jpg"),
+    url("https://images.pexels.com/photos/14011035/pexels-photo-14011035.jpeg");
   background-size: 100% 100%;
   color: var(--c2);
   display: flex;
